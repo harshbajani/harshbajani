@@ -38,7 +38,6 @@
 > **Fun Fact:** I debug with `console.log()` and I'm not ashamed! 😅
 
 </div>
-```
 
 <div align="center">
 
@@ -98,56 +97,72 @@
 <tr>
 <td width="50%">
 
-### 🎯 [Prepwise](https://github.com/harshbajani/prepwise)
-> Smart prep tracker with intuitive design
-- **Stack**: React, TypeScript, Tailwind CSS
-- **Features**: Progress tracking, Resource management
-- **Highlight**: Clean UI with smooth animations
+### 🎓 [Converso](https://github.com/harshbajani/Converso)
+> AI-powered LMS SaaS with voice tutoring
+- **Stack**: Next.js, Supabase, Clerk, Stripe, Vapi
+- **Features**: AI voice agents, real-time learning, billing
+- **Highlight**: Interactive tutoring with personalized AI
 
-![Prepwise](https://img.shields.io/badge/Status-Active-success?style=flat-square)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Converso](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 <td width="50%">
 
-### 💬 [Converso](https://github.com/harshbajani/converso)  
-> Real-time chat with modern architecture
-- **Stack**: Next.js, Socket.io, PostgreSQL
-- **Features**: Real-time messaging, File sharing
-- **Highlight**: Lightning-fast performance
+### 🛒 [Dumbroad](https://github.com/harshbajani/Dumbroad)  
+> Multi-tenant ecommerce platform
+- **Stack**: Next.js 15, Payload CMS, Stripe Connect
+- **Features**: Vendor storefronts, subdomains, reviews
+- **Highlight**: Complete marketplace with automated fees
 
-![Converso](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![Dumbroad](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📋 [Track](https://github.com/harshbajani/track)
-> Minimalist productivity companion
-- **Stack**: React, Local Storage, CSS3
-- **Features**: Task management, Progress visualization
-- **Highlight**: Zen-like user experience
+### 🎯 [PrepWise](https://github.com/harshbajani/PrepWise)
+> AI-powered interview preparation platform
+- **Stack**: Next.js, Firebase, Vapi, TailwindCSS
+- **Features**: Voice-based mock interviews, real-time feedback
+- **Highlight**: AI agents for personalized interview practice
 
-![Track](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![PrepWise](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 </td>
 <td width="50%">
 
-### 🏥 [Carepulse](https://github.com/harshbajani/carepulse)
-> Healthcare platform for patient care
-- **Stack**: Next.js, Appwrite, TypeScript
-- **Features**: Patient management, Health monitoring
-- **Highlight**: Accessible design principles
+### 📋 [Track](https://github.com/harshbajani/Track)
+> Comprehensive Jira clone for project management
+- **Stack**: Next.js 14, Appwrite, Shadcn UI
+- **Features**: Kanban boards, analytics, team collaboration
+- **Highlight**: Full-featured project management suite
 
-![Carepulse](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![Track](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 📁 [StoreIt](https://github.com/harshbajani/StoreIT)
+> Modern file storage and sharing platform
+- **Stack**: Next.js 15, React 19, Appwrite, TypeScript
+- **Features**: Secure uploads, file management, global search, sharing
+- **Highlight**: Cutting-edge storage solution with modern UX
+
+![StoreIt](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 </tr>
