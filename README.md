@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6E57E0&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Web+Developer;Creative+Engineer+%7C+Curious+Builder;Building+the+web%2C+one+pixel+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6E57E0&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full+Stack+Web+Developer;Creative+Engineer+%7C+Curious+Builder;Building+the+web%2C+one+pixel+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e57e0,50:e7baff,100:fae4e9&height=200&section=header&text=Welcome%20to%20my%20Universe&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Where%20creativity%20meets%20code&descAlignY=51&descAlign=62" width="100%"/>
 
@@ -10,25 +10,25 @@
 
 ## 🎭 About Me
 
-```typescript
-const harsh = {
-  name: "Harsh Bajani",
-  role: "Full Stack Developer & UI/UX Enthusiast",
-  location: "India 🇮🇳",
-  currentFocus: ["Three.js Magic", "GSAP Animations", "Next.js 15"],
-  lifePhilosophy: "Every pixel tells a story, every animation has a purpose",
-  
-  dailyRoutine: {
-    morning: "☕ Coffee + Code",
-    afternoon: "🎨 Design + Debug", 
-    evening: "🏎️ F1 + Chill",
-    night: "🌙 Dream in JavaScript"
-  },
-  
-  favoriteTechnologies: ["React", "Three.js", "GSAP", "TypeScript"],
-  currentlyLearning: "Advanced 3D Web Experiences",
-  funFact: "I debug with console.log and I'm not ashamed! 😅"
-};
+<div align="center">
+
+**🚀 Full Stack Developer & UI/UX Enthusiast from India** 🇮🇳
+
+*Passionate about crafting interactive, performant, and meaningful digital experiences*
+
+</div>
+
+| 🎯 **Current Focus** | 💡 **Philosophy** | 🌟 **Specialty** |
+|:---:|:---:|:---:|
+| Three.js Magic ✨<br/>GSAP Animations 🎬<br/>Next.js 15 ⚡ | *"Every pixel tells a story,<br/>every animation has a purpose"* | 3D Web Experiences 🌐<br/>Interactive Design 🎨<br/>Creative Engineering 🔧 |
+
+### 📅 My Daily Rhythm
+🌅 **Morning:** ☕ Coffee + Code  
+🌞 **Afternoon:** 🎨 Design + Debug  
+🌆 **Evening:** 🏎️ F1 + Chill  
+🌙 **Night:** Dream in JavaScript  
+
+> **Fun Fact:** I debug with `console.log()` and I'm not ashamed! 😅
 ```
 
 <div align="center">
@@ -183,16 +183,15 @@ const harsh = {
 
 ### 🎵 When I'm Not Coding
 
-```javascript
-const lifeOutsideCode = {
-  music: "🎤 Singing my heart out",
-  writing: "✍️ Crafting stories and thoughts", 
-  sports: "🏎️ F1 fanatic & ⚽ sports enthusiast",
-  exploration: "🌍 Travel addict & 🌿 nature lover"
-};
+<div align="center">
 
-console.log("Balance is key! 🎯");
-```
+| 🎤 **Music** | ✍️ **Writing** | 🏎️ **Sports** | 🌍 **Adventure** |
+|:---:|:---:|:---:|:---:|
+| Singing my<br/>heart out | Crafting stories<br/>& thoughts | F1 fanatic &<br/>Sports enthusiast | Travel addict &<br/>Nature lover |
+
+**🎯 Balance is key!** *Life is about finding harmony between passion and code*
+
+</div>
 
 </div>
 
