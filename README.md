@@ -18,17 +18,26 @@
 
 </div>
 
+<div align="center">
+
 | 🎯 **Current Focus** | 💡 **Philosophy** | 🌟 **Specialty** |
 |:---:|:---:|:---:|
 | Three.js Magic ✨<br/>GSAP Animations 🎬<br/>Next.js 15 ⚡ | *"Every pixel tells a story,<br/>every animation has a purpose"* | 3D Web Experiences 🌐<br/>Interactive Design 🎨<br/>Creative Engineering 🔧 |
 
+</div>
+
 ### 📅 My Daily Rhythm
+
+<div align="center">
+
 🌅 **Morning:** ☕ Coffee + Code  
 🌞 **Afternoon:** 🎨 Design + Debug  
 🌆 **Evening:** 🏎️ F1 + Chill  
 🌙 **Night:** Dream in JavaScript  
 
 > **Fun Fact:** I debug with `console.log()` and I'm not ashamed! 😅
+
+</div>
 ```
 
 <div align="center">
